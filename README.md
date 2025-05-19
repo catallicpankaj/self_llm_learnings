@@ -60,9 +60,6 @@ self_llm_learnings/
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
